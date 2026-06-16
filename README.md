@@ -11,4 +11,4 @@ How to use this program?
 >>you can set how many times you wanna run this like this --> terminal(24)
 >>you can set how fast the terminal moves like this --> terminal(24,0.6)
 >>>>>to set your own speed the you must also input "times" -->(24,0.6)
-                <<<<< developed by IPLays>>>>>>
+              
